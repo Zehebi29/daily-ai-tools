@@ -1,6 +1,8 @@
 # 🤖 每日 AI 工具精选
 
-> 与 [缪兔AI信息差](https://github.com/Zehebi29/daily-ai-tools) 同步，每天自动更新的 AI 工具 / 资源清单。
+> 与 [缪兔AI信息差](https://b23.tv/ml5Nnv2) 同步，每天自动更新的 AI 工具 / 资源清单。
+>
+> 📺 B站：[缪兔AI_Agent](https://b23.tv/ml5Nnv2)
 
 每天精选 5 条值得关注的 AI 工具、开源项目和行业动态，自动 commit。
 
