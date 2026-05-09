@@ -17,9 +17,9 @@
 | [Granite Switch](https://github.com/generative-computing/granite-switch) | IBM 开源，多 LoRA 合并为单一模型 | 模型工具 | 05-09 |
 | [Grok Quality Mode](https://x.ai/news/grok-imagine-quality-mode) | xAI 图像生成画质升级 | 图像生成 | 05-09 |
 | [Spark CLI](https://github.com/readdle/spark-cli-skills) | AI Agent 本地多邮箱访问工具 | Agent | 05-09 |
-| [Anthropic Dreaming](https://venturebeat.com/ai/anthropic-introduces-dreaming/) | AI 智能体自我反思纠错机制 | Agent | 05-09 |
+| [Anthropic Dreaming](https://www.zdnet.com/article/your-claude-agents-can-dream-now-how-anthropics-new-feature-works/) | AI 智能体自我反思纠错机制 | Agent | 05-09 |
 | [OpenAI Voice Reasoning](https://venturebeat.com/ai/openai-brings-gpt-5-class-reasoning-to-real-time-voice/) | 语音助手拥有 GPT-5 推理能力 | 模型 | 05-09 |
-| [Sakana Orchestrator](https://venturebeat.com/ai/how-sakana-trained-a-7b-model-to-orchestrate-gpt-claude-and-gemini-llms/) | 7B 小模型调度 GPT/Claude/Gemini | 模型 | 05-09 |
+| [Sakana Fugu](https://sakana.ai/fugu-beta/) | 7B 小模型调度 GPT/Claude/Gemini | 模型 | 05-09 |
 | [TradingAgents](https://github.com/TauricResearch/TradingAgents) | 金融 AI Agent，多 Agent 协作交易 | Agent | 05-09 |
 
 ---
