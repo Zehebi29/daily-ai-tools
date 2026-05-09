@@ -30,6 +30,7 @@ tools/           — 分类合集（持续更新）
   agents.md      — Agent 类工具
   llm.md         — 大模型相关
   devtools.md    — 开发工具
+  skills.md      — Agent Skill / MCP
   image.md       — 图像/视频生成
 README.md        — 精选总表 + 说明
 ```
