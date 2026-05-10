@@ -19,6 +19,10 @@
 | [OpenAI Voice Reasoning](https://venturebeat.com/ai/openai-brings-gpt-5-class-reasoning-to-real-time-voice/) | 语音助手拥有 GPT-5 推理能力 | 模型 |
 | [Sakana Fugu](https://sakana.ai/fugu-beta/) | 7B 小模型调度 GPT/Claude/Gemini | 模型 |
 | [TradingAgents](https://github.com/TauricResearch/TradingAgents) | 金融 AI Agent，多 Agent 协作交易 | Agent |
+| [ds4.c](https://github.com/antirez/ds4) | DeepSeek V4 Flash 专用 Metal 推理引擎 (antirez) | 开发工具 |
+| [ZAYA1-8B](https://firethering.com/zaya1-8b-open-source-math-coding-model/) | 760M 活跃参数匹敌 DeepSeek-R1 | 大模型 |
+| [Anthropic NLA](https://www.anthropic.com/research/natural-language-autoencoders) | 自然语言自编码器，Claude 思维可读化 | 研究 |
+| [Claude Mythos × Firefox](https://simonwillison.net/2026/May/7/firefox-claude-mythos/) | Claude Mythos 帮 Firefox 找到 271 个零日漏洞 | Agent |
 
 ---
 
