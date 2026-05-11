@@ -23,6 +23,10 @@
 | [ZAYA1-8B](https://firethering.com/zaya1-8b-open-source-math-coding-model/) | 760M 活跃参数匹敌 DeepSeek-R1 | 大模型 |
 | [Anthropic NLA](https://www.anthropic.com/research/natural-language-autoencoders) | 自然语言自编码器，Claude 思维可读化 | 研究 |
 | [Claude Mythos × Firefox](https://simonwillison.net/2026/May/7/firefox-claude-mythos/) | Claude Mythos 帮 Firefox 找到 271 个零日漏洞 | Agent |
+| [re_gent](https://github.com/regent-vcs/re_gent) | AI Agent 专用版本控制，追踪状态和决策 | 开发工具 |
+| [AlphaEvolve](https://deepmind.google/blog/alphaevolve-impact/) | DeepMind Gemini 编程 Agent，跨领域算法优化 | Agent |
+| [Gemini API File Search](https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/) | 多模态文件搜索，支持图片/PDF/表格 | 开发工具 |
+| [GLM-5V-Turbo](https://arxiv.org/abs/2604.26752) | 智谱多模态 Agent 专用基础模型 | 大模型 |
 
 ---
 

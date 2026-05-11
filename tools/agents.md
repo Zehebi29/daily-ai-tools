@@ -8,3 +8,4 @@
 | Anthropic Dreaming | AI 智能体自我反思纠错 | [🔗](https://www.zdnet.com/article/your-claude-agents-can-dream-now-how-anthropics-new-feature-works/) |
 | TradingAgents | 金融 AI Agent，多 Agent 协作交易 | [🔗](https://github.com/TauricResearch/TradingAgents) |
 | Sierra | AI Agent 公司，估值 150 亿美元 | [🔗](https://siliconangle.com) |
+| AlphaEvolve | DeepMind Gemini 编程 Agent，跨领域算法优化 | [🔗](https://deepmind.google/blog/alphaevolve-impact/) |

@@ -4,3 +4,5 @@
 |------|------|------|
 | DAC | Dashboard as Code，Agent 友好的数据看板 | [🔗](https://github.com/bruin-data/dac) |
 | ds4.c | DeepSeek V4 Flash 专用 Metal 本地推理引擎，antirez 开发 | [🔗](https://github.com/antirez/ds4) |
+| re_gent | AI Agent 专用版本控制，追踪状态和决策 | [🔗](https://github.com/regent-vcs/re_gent) |
+| Gemini API File Search | 多模态文件搜索，支持图片/PDF/表格 | [🔗](https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/) |

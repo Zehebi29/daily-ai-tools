@@ -7,3 +7,4 @@
 | Anthropic NLA | 自然语言自编码器，让 Claude 内部思维可读 | [🔗](https://www.anthropic.com/research/natural-language-autoencoders) | [🔗](https://venturebeat.com/ai/openai-brings-gpt-5-class-reasoning-to-real-time-voice/) |
 | Sakana Fugu | 7B 小模型调度 GPT/Claude/Gemini | [🔗](https://sakana.ai/fugu-beta/) |
 | Granite Switch | 多 LoRA 合并为单一模型 | [🔗](https://github.com/generative-computing/granite-switch) |
+| GLM-5V-Turbo | 智谱多模态 Agent 专用基础模型 | [🔗](https://arxiv.org/abs/2604.26752) |
