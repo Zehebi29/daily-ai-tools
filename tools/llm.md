@@ -8,3 +8,5 @@
 | Sakana Fugu | 7B 小模型调度 GPT/Claude/Gemini | [🔗](https://sakana.ai/fugu-beta/) |
 | Granite Switch | 多 LoRA 合并为单一模型 | [🔗](https://github.com/generative-computing/granite-switch) |
 | GLM-5V-Turbo | 智谱多模态 Agent 专用基础模型 | [🔗](https://arxiv.org/abs/2604.26752) |
+| GPT-5.5 Instant | OpenAI 极速版，保持能力同时大幅提升响应速度 | [🔗](https://openai.com/index/gpt-5-5-instant/) |
+| DeepSeek V4 Pro | 限时降价 75%，高质量模型打价格战（至 5/31） | [🔗](https://api-docs.deepseek.com/quick_start/pricing) |
