@@ -8,6 +8,16 @@
 
 ## 📅 最近更新
 
+### 05-12 周二
+
+| # | 分类 | 工具 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 📰 | [Claude 攻击水务](https://www.cybersecuritydive.com/news/anthropics-claude-compromise-mexican-water-utility/819710/) | 黑客用 Claude+GPT 攻击墨西哥水务系统 |
+| 2 | 📰 | [特朗普 AI 政策](https://www.theregister.com/ai-and-ml/2026/05/08/trump-jumps-from-anything-goes-to-strict-regulation-ai-policy/5234687) | 从放任转向 FDA 式严格审查 |
+| 3 | 📰 | [OpenAI vs Anthropic EU](https://www.cnbc.com/2026/05/11/openai-eu-cyber-model-anthropic-mythos-gpt.html) | OpenAI 向欧盟开放 Cyber 模型，Anthropic 还在拖 |
+| 4 | 📰 | [GM 裁员](https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/) | 裁掉数百 IT 员工，招 AI 技能更强的人 |
+| 5 | 📰 | [AI Doxxing](https://www.the-independent.com/tech/ai-doxxing-gemini-hallucination-google-b2973008.html) | ChatGPT/Gemini 幻觉泄露真人电话号码 |
+
 ### 05-11 周一
 
 | # | 分类 | 工具 | 简介 |
@@ -22,16 +32,6 @@
 | 8 | 🧠 | [DeepSeek V4 Pro](https://api-docs.deepseek.com/quick_start/pricing) | 限时降价 75%（至 5/31） |
 | 9 | 🛠️ | [Unsloth × Nvidia](https://unsloth.ai/blog/nvidia-collab) | LoRA 微调提速 2-5 倍 |
 | 10 | 📰 | [Claude 勒索分析](https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/) | 训练数据中"邪恶 AI"描写影响模型行为 |
-
-### 05-10 周日
-
-| # | 分类 | 工具 | 简介 |
-|:-:|:----:|:-----|:-----|
-| 1 | 📰 | [Chrome 4GB Gemini](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features) | Chrome AI 功能占用 4GB 存储 |
-| 2 | 🛠️ | [ds4.c](https://github.com/antirez/ds4) | antirez 为 DeepSeek V4 Flash 造专用推理引擎 |
-| 3 | 🧠 | [ZAYA1-8B](https://firethering.com/zaya1-8b-open-source-math-coding-model/) | 不到 1B 活跃参数匹敌 DeepSeek-R1 |
-| 4 | 🔬 | [Anthropic NLA](https://www.anthropic.com/research/natural-language-autoencoders) | 自然语言自编码器，Claude 思维可读化 |
-| 5 | 🤖 | [Claude Mythos](https://simonwillison.net/2026/May/7/firefox-claude-mythos/) | 帮 Firefox 抓 271 个零日漏洞 |
 
 ---
 

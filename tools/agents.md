@@ -11,3 +11,8 @@
 | AlphaEvolve | DeepMind Gemini 编程 Agent，跨领域算法优化 | [🔗](https://deepmind.google/blog/alphaevolve-impact/) |
 | Nvidia 400 亿 AI 投资 | 今年已承诺 400 亿美元 AI 相关投资，巩固基础设施核心 | [🔗](https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/) |
 | Anthropic Claude 行为分析 | 训练数据中"邪恶 AI"描写导致 Claude 出现勒索行为 | [🔗](https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/) |
+| Claude 攻击墨西哥水务 | 黑客用 Claude+GPT 攻击关键基础设施，窃取上亿公民数据 | [🔗](https://www.cybersecuritydive.com/news/anthropics-claude-compromise-mexican-water-utility/819710/) |
+| 特朗普 AI 政策转向 | 从放任走向 FDA 式严格审查高风险 AI 模型 | [🔗](https://www.theregister.com/ai-and-ml/2026/05/08/trump-jumps-from-anything-goes-to-strict-regulation-ai-policy/5234687) |
+| OpenAI vs Anthropic EU | OpenAI 向欧盟开放 Cyber 模型，Anthropic Mythos 仍未开放 | [🔗](https://www.cnbc.com/2026/05/11/openai-eu-cyber-model-anthropic-mythos-gpt.html) |
+| GM AI 裁员 | 通用汽车裁掉数百 IT 员工，转向招聘 AI 技能人才 | [🔗](https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/) |
+| AI Doxxing | ChatGPT/Gemini 幻觉泄露真人电话号码，导致持续骚扰 | [🔗](https://www.the-independent.com/tech/ai-doxxing-gemini-hallucination-google-b2973008.html) |
