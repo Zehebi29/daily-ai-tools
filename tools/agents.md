@@ -16,3 +16,6 @@
 | OpenAI vs Anthropic EU | OpenAI 向欧盟开放 Cyber 模型，Anthropic Mythos 仍未开放 | [🔗](https://www.cnbc.com/2026/05/11/openai-eu-cyber-model-anthropic-mythos-gpt.html) |
 | GM AI 裁员 | 通用汽车裁掉数百 IT 员工，转向招聘 AI 技能人才 | [🔗](https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/) |
 | AI Doxxing | ChatGPT/Gemini 幻觉泄露真人电话号码，导致持续骚扰 | [🔗](https://www.the-independent.com/tech/ai-doxxing-gemini-hallucination-google-b2973008.html) |
+| Statewright | 状态机约束 Agent 行为，每阶段只能用指定工具 | [🔗](https://github.com/statewright/statewright) |
+| Voker | YC S24 Agent 可观测性分析，面向产品团队 | [🔗](https://voker.ai) |
+| E2a | Agent 邮件网关，收发邮件+身份验证+审批流程 | [🔗](https://github.com/Mnexa-AI/e2a) |

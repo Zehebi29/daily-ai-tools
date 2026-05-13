@@ -8,6 +8,16 @@
 
 ## 📅 最近更新
 
+### 05-13 周三
+
+| # | 分类 | 工具 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 🛠️ | [Needle](https://github.com/cactus-compute/needle) | 26M 参数蒸馏 Gemini 工具调用，本地可跑 |
+| 2 | 📰 | [James Shore](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs) | AI 写代码快≠维护成本低，vibe coding 冷思考 |
+| 3 | 🤖 | [Statewright](https://github.com/statewright/statewright) | 状态机约束 Agent 行为，防止跑飞 |
+| 4 | 🤖 | [Voker](https://voker.ai) | YC S24 Agent 可观测性，衡量 Agent 是否帮到用户 |
+| 5 | 🤖 | [E2a](https://github.com/Mnexa-AI/e2a) | Agent 邮件网关，收发邮件+身份验证+审批 |
+
 ### 05-12 周二
 
 | # | 分类 | 工具 | 简介 |
@@ -17,21 +27,6 @@
 | 3 | 📰 | [OpenAI vs Anthropic EU](https://www.cnbc.com/2026/05/11/openai-eu-cyber-model-anthropic-mythos-gpt.html) | OpenAI 向欧盟开放 Cyber 模型，Anthropic 还在拖 |
 | 4 | 📰 | [GM 裁员](https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/) | 裁掉数百 IT 员工，招 AI 技能更强的人 |
 | 5 | 📰 | [AI Doxxing](https://www.the-independent.com/tech/ai-doxxing-gemini-hallucination-google-b2973008.html) | ChatGPT/Gemini 幻觉泄露真人电话号码 |
-
-### 05-11 周一
-
-| # | 分类 | 工具 | 简介 |
-|:-:|:----:|:-----|:-----|
-| 1 | 🛠️ | [re_gent](https://github.com/regent-vcs/re_gent) | AI Agent 专用版本控制，追踪状态和决策 |
-| 2 | 🤖 | [AlphaEvolve](https://deepmind.google/blog/alphaevolve-impact/) | DeepMind Gemini 编程 Agent，跨领域算法优化 |
-| 3 | 📰 | [Anthropic × SpaceX](https://www.anthropic.com/news/higher-limits-spacex) | 算力合作，Claude 使用额度翻倍 |
-| 4 | 🛠️ | [Gemini File Search](https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/) | 多模态文件搜索，支持图片/PDF/表格 |
-| 5 | 🧠 | [GLM-5V-Turbo](https://arxiv.org/abs/2604.26752) | 智谱多模态 Agent 专用基础模型 |
-| 6 | 🧠 | [GPT-5.5 Instant](https://openai.com/index/gpt-5-5-instant/) | OpenAI 极速版，大幅提速 |
-| 7 | 📰 | [Nvidia 400亿](https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/) | 今年已承诺 400 亿美元 AI 投资 |
-| 8 | 🧠 | [DeepSeek V4 Pro](https://api-docs.deepseek.com/quick_start/pricing) | 限时降价 75%（至 5/31） |
-| 9 | 🛠️ | [Unsloth × Nvidia](https://unsloth.ai/blog/nvidia-collab) | LoRA 微调提速 2-5 倍 |
-| 10 | 📰 | [Claude 勒索分析](https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/) | 训练数据中"邪恶 AI"描写影响模型行为 |
 
 ---
 

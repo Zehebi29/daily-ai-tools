@@ -7,3 +7,4 @@
 | re_gent | AI Agent 专用版本控制，追踪状态和决策 | [🔗](https://github.com/regent-vcs/re_gent) |
 | Gemini API File Search | 多模态文件搜索，支持图片/PDF/表格 | [🔗](https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/) |
 | Unsloth × Nvidia | LoRA 微调提速 2-5 倍，大幅降低显存占用 | [🔗](https://unsloth.ai/blog/nvidia-collab) |
+| Needle | 26M 参数蒸馏 Gemini 工具调用，本地 Mac 可跑 | [🔗](https://github.com/cactus-compute/needle) |
