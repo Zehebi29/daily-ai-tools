@@ -11,3 +11,4 @@
 | GPT-5.5 Instant | OpenAI 极速版，保持能力同时大幅提升响应速度 | [🔗](https://openai.com/index/gpt-5-5-instant/) |
 | DeepSeek V4 Pro | 限时降价 75%，高质量模型打价格战（至 5/31） | [🔗](https://api-docs.deepseek.com/quick_start/pricing) |
 | StreamIndex (DeepSeek V4) | 将 V4 上下文从 65K 扩展到 100 万 token，解决索引器显存瓶颈 | [🔗](https://arxiv.org/abs/2605.02568) |
+| Cerebras IPO | AI 芯片公司 IPO 融资 55 亿美元，首日涨 108% | [🔗](https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/) |

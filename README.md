@@ -8,6 +8,16 @@
 
 ## 📅 最近更新
 
+### 05-15 周五
+
+| # | 分类 | 工具 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 💰 | [Cerebras IPO](https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/) | AI芯片公司IPO融资55亿美元，首日涨108% |
+| 2 | 🛠️ | [Codex Mobile](https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview) | OpenAI Codex登陆ChatGPT手机App |
+| 3 | 💡 | [Claude恢复钱包](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup) | 用Claude暴力破解3.5万亿次密码找回40万美元BTC |
+| 4 | 🛠️ | [Rars](https://bitplane.net/log/2026/05/rars/) | LLM花5周写的Rust RAR解压库，55K行代码£40 |
+| 5 | 📰 | [微软停用Claude Code](https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad) | 微软内部砍掉Claude Code，全面转Copilot CLI |
+
 ### 05-14 周四
 
 | # | 分类 | 工具 | 简介 |
@@ -17,16 +27,6 @@
 | 3 | 📰 | [Altman庭审](https://arstechnica.com/tech-policy/2026/05/altman-forced-to-confront-claims-at-openai-trial-that-he) | Sam Altman出庭被指"一贯说谎" |
 | 4 | 🧠 | [DeepSeek V4百万上下文](https://arxiv.org/abs/2605.02568) | StreamIndex将V4上下文从65K扩展到100万token |
 | 5 | 📰 | [数据中心断电](https://fortune.com/2026/05/12/lake-tahoe-data-center-49000-residents-power-source) | 5万居民断电，电力让给数据中心 |
-
-### 05-13 周三
-
-| # | 分类 | 工具 | 简介 |
-|:-:|:----:|:-----|:-----|
-| 1 | 🛠️ | [Needle](https://github.com/cactus-compute/needle) | 26M 参数蒸馏 Gemini 工具调用，本地可跑 |
-| 2 | 📰 | [James Shore](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs) | AI 写代码快≠维护成本低，vibe coding 冷思考 |
-| 3 | 🤖 | [Statewright](https://github.com/statewright/statewright) | 状态机约束 Agent 行为，防止跑飞 |
-| 4 | 🤖 | [Voker](https://voker.ai) | YC S24 Agent 可观测性，衡量 Agent 是否帮到用户 |
-| 5 | 🤖 | [E2a](https://github.com/Mnexa-AI/e2a) | Agent 邮件网关，收发邮件+身份验证+审批 |
 
 ---
 
