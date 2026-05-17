@@ -8,6 +8,16 @@
 
 ## 📅 最近更新
 
+### 05-17 周日
+
+| # | 分类 | 工具 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 🎨 | [SANA-WM](https://nvlabs.github.io/Sana/WM/) | NVIDIA开源2.6B世界模型，单卡生成1分钟720p视频，310+ HN点赞 |
+| 2 | 🛠️ | [Zerostack](https://github.com/gi-dellav/zerostack) | 纯Rust编码Agent，8MB内存Unix哲学，每个工具独立进程通信 |
+| 3 | 🛠️ | [WhichLLM](https://github.com/Andyyyy64/whichllm) | 按硬件自动跑基准测试推荐最佳本地LLM，冲283星 |
+| 4 | 🤖 | [OpenClaw烧$130万](https://news.ycombinator.com/item?id=48159227) | 单Agent月烧130万美金API费，每分钟300美元冲上HN热榜 |
+| 5 | 🤖 | [医生AI笔记编病历](https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/) | 安大略审计揭发AI医疗笔记大面积编造，触及法律红线 |
+
 ### 05-16 周六
 
 | # | 分类 | 工具 | 简介 |

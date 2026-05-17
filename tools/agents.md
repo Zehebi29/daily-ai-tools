@@ -19,3 +19,6 @@
 | Statewright | 状态机约束 Agent 行为，每阶段只能用指定工具 | [🔗](https://github.com/statewright/statewright) |
 | Voker | YC S24 Agent 可观测性分析，面向产品团队 | [🔗](https://voker.ai) |
 | E2a | Agent 邮件网关，收发邮件+身份验证+审批流程 | [🔗](https://github.com/Mnexa-AI/e2a) |
+| OpenClaw $1.3M Token | 单Agent月烧130万美金，高强度API调用成本惊人 | [🔗](https://news.ycombinator.com/item?id=48159227) |
+| Doctor AI笔记幻觉 | 安大略审计揭发AI医疗笔记大面积编造病历内容 | [🔗](https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/) |
+|
